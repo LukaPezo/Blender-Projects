@@ -1,3 +1,4 @@
 # Blender-Projects
-Here is pictures of my projects finished in Blender (3D Modeling, Texturing, Sculpting)
-This repo is created in promotion purposes implemented in my CV and web pages for Faculty
+This repo contains all projects what I do in free time.
+I would like to have the opportunity to work in a company of similar interest.
+Contact mail: Ipenezic5@gmail.com
